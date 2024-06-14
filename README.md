@@ -30,7 +30,14 @@ UI and User Experience.
 Implement loading indicators and error messages for asynchronous operations.
 
 ### screenshots
+![Screenshot_1718378001](https://github.com/Salman4511/Report_App/assets/138016294/7ff9b692-ec06-40e2-9a4b-a52f1a99eca9)
 
+![Screenshot_1718377987](https://github.com/Salman4511/Report_App/assets/138016294/a6fcea50-3e99-481e-b444-e9a8677cd7fa)
+
+
+### Additional works
+splash screen added,
+refresh button for again fetching the data once more.
 
 ### Contact
 Mail:salmanulfaris4511@gmail.com. 
