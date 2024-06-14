@@ -4,7 +4,6 @@ import 'package:report_app/model/report_model/report_model.dart';
 import 'package:http/http.dart' as http;
 
 class ReportRepo {
- 
   Future<List<ReportModel>> fetchReports() async {
     try {
       final response =
@@ -23,5 +22,4 @@ class ReportRepo {
       throw Exception("Error: --> $error");
     }
   }
-
 }
