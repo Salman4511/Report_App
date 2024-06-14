@@ -1,16 +1,38 @@
-# report_app
+# Report App
+Brief description of project.
 
-A new Flutter project.
+### Technologies Used
+Flutter
+Dart
+http package for making HTTP requests
+json_annotation for JSON serialization
 
-## Getting Started
+### Clone the repository
+git clone https://github.com/Salman4511/Report_App.git
 
-This project is a starting point for a Flutter application.
+### Get dependencies
+flutter pub get
+Run the App
 
-A few resources to get you started if this is your first Flutter project:
+Connect your emulator or physical device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Run the app
+flutter run
+Integration with Backend API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ensure the backend server (localhost:3000 or your server URL) is running.
+Update the API endpoint URL in report_repo.dart with your server's URL. 
+
+### State Management
+Use FutureBuilder and setState to manage API data retrieval.
+Implement error handling for network failures and API errors.
+UI and User Experience
+Implement loading indicators and error messages for asynchronous operations.
+
+### screenshots
+
+
+### Contact
+Mail:salmanulfaris4511@gmail.com, 
+phone: 9895840715
+
